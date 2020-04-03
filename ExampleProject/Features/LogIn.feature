@@ -1,6 +1,6 @@
 ﻿Feature: LogIn
 	As a Registered User,
-	I want to Log in Successfully
+	I want to LogIn Successfully
 
 @positive
 Scenario: Log in to Web Scraper website
